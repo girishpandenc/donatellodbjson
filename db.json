@@ -15,7 +15,41 @@
           "description": "this is how we will build feature 1"
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "In Progress",
+      "items": [
+        {
+          "id": 1,
+          "title": "Feature 1",
+          "description": "this is feature 1"
+        },
+        {
+          "id": 2,
+          "title": "Feature 2",
+          "description": "this is feature 2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Done",
+      "items": [
+        {
+          "id": 1,
+          "title": "Board,
+          "description": "this is the board"
+        },
+        {
+          "id": 2,
+          "title": "Header",
+          "description": "this is the header"
+        }
+      ]
     }
+    
+    
   ]
 
 
